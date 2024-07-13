@@ -2,7 +2,7 @@
 
 Simple React Blog
 
-### How to run 
+## How to run
 
 1. Install Gulp - `npm install -g gulp`
 2. `npm install` to install dependencies.
