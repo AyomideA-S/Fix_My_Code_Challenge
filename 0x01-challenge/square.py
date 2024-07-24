@@ -23,7 +23,7 @@ class Square():
 
     def __str__(self):
         """ This is the printing function for the Square class """
-        return "{}/{}".format(self.width, self.height)
+        return f"{self.width}/{self.height}"
 
 
 if __name__ == "__main__":
